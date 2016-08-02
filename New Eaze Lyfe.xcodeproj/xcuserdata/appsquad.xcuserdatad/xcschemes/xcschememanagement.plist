@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>New Eaze Lyfe.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E598F47A1D23A85900E01B1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E598F48E1D23A85A00E01B1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E598F4991D23A85A00E01B1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
