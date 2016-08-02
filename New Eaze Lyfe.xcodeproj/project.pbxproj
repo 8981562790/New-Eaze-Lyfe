@@ -13,9 +13,10 @@
 		E5575F711D4F587800017F83 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E5575F6E1D4F587800017F83 /* Quicksand-Regular.ttf */; };
 		E5575F741D4F5D8E00017F83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5575F721D4F5D8E00017F83 /* Main.storyboard */; };
 		E598F4861D23A85A00E01B1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E598F4851D23A85A00E01B1F /* Assets.xcassets */; };
-		E598F4891D23A85A00E01B1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E598F4871D23A85A00E01B1F /* LaunchScreen.storyboard */; };
 		E598F4941D23A85A00E01B1F /* New_Eaze_LyfeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E598F4931D23A85A00E01B1F /* New_Eaze_LyfeTests.swift */; };
 		E598F49F1D23A85A00E01B1F /* New_Eaze_LyfeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E598F49E1D23A85A00E01B1F /* New_Eaze_LyfeUITests.swift */; };
+		E5AAA9BA1D50B4CC00BA74E9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5AAA9B91D50B4CC00BA74E9 /* Images.xcassets */; };
+		E5B894401D50AD9600E35FD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5B8943E1D50AD9600E35FD4 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +51,6 @@
 		E598F47E1D23A85A00E01B1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E598F4801D23A85A00E01B1F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E598F4851D23A85A00E01B1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E598F4881D23A85A00E01B1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E598F48A1D23A85A00E01B1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E598F48F1D23A85A00E01B1F /* New Eaze LyfeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "New Eaze LyfeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E598F4931D23A85A00E01B1F /* New_Eaze_LyfeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_Eaze_LyfeTests.swift; sourceTree = "<group>"; };
@@ -65,6 +65,8 @@
 		E5A546731D24E74B000C0B83 /* QUICKSAND-LIGHT.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "QUICKSAND-LIGHT.TTF"; path = "../../../../Downloads/QUICKSAND-LIGHT.TTF"; sourceTree = "<group>"; };
 		E5A546741D24E74B000C0B83 /* QUICKSAND-BOLD.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "QUICKSAND-BOLD.TTF"; path = "../../../../Downloads/QUICKSAND-BOLD.TTF"; sourceTree = "<group>"; };
 		E5A546751D24E74B000C0B83 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Quicksand-Regular.ttf"; path = "../../../../Downloads/Quicksand-Regular.ttf"; sourceTree = "<group>"; };
+		E5AAA9B91D50B4CC00BA74E9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E5B8943F1D50AD9600E35FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
 		E5ED137D1D4349FB002EB5E5 /* TAB2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TAB2ViewController.swift; sourceTree = "<group>"; };
 		E5ED137F1D4368C2002EB5E5 /* CustomeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomeCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,12 +132,13 @@
 				E598F4801D23A85A00E01B1F /* ViewController.swift */,
 				E5ED137D1D4349FB002EB5E5 /* TAB2ViewController.swift */,
 				E5929C761D2A342900B370C6 /* orderAndSearchViewController.swift */,
-				E50B4A801D278E75001B75FE /* OrderViewController.swift */,
+				E5B8943E1D50AD9600E35FD4 /* LaunchScreen.storyboard */,
 				E5575F721D4F5D8E00017F83 /* Main.storyboard */,
+				E50B4A801D278E75001B75FE /* OrderViewController.swift */,
 				E557598E1D2679940035DD2F /* SignUpViewController.swift */,
 				E598F4851D23A85A00E01B1F /* Assets.xcassets */,
-				E598F4871D23A85A00E01B1F /* LaunchScreen.storyboard */,
 				E598F48A1D23A85A00E01B1F /* Info.plist */,
+				E5AAA9B91D50B4CC00BA74E9 /* Images.xcassets */,
 			);
 			path = "New Eaze Lyfe";
 			sourceTree = "<group>";
@@ -275,10 +278,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5575F741D4F5D8E00017F83 /* Main.storyboard in Resources */,
+				E5AAA9BA1D50B4CC00BA74E9 /* Images.xcassets in Resources */,
 				E5575F6F1D4F587800017F83 /* QUICKSAND-BOLD.TTF in Resources */,
 				E5575F701D4F587800017F83 /* QUICKSAND-LIGHT.TTF in Resources */,
 				E5575F711D4F587800017F83 /* Quicksand-Regular.ttf in Resources */,
-				E598F4891D23A85A00E01B1F /* LaunchScreen.storyboard in Resources */,
+				E5B894401D50AD9600E35FD4 /* LaunchScreen.storyboard in Resources */,
 				E598F4861D23A85A00E01B1F /* Assets.xcassets in Resources */,
 				E5575F5E1D4F166F00017F83 /* Default-568h@2x.png in Resources */,
 			);
@@ -341,10 +345,10 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E598F4871D23A85A00E01B1F /* LaunchScreen.storyboard */ = {
+		E5B8943E1D50AD9600E35FD4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E598F4881D23A85A00E01B1F /* Base */,
+				E5B8943F1D50AD9600E35FD4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -440,7 +444,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				INFOPLIST_FILE = "New Eaze Lyfe/Info.plist";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appsquad.New-Eaze-Lyfe";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -454,7 +460,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				INFOPLIST_FILE = "New Eaze Lyfe/Info.plist";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appsquad.New-Eaze-Lyfe";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -467,10 +475,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "New Eaze LyfeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appsquad.New-Eaze-LyfeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/New Eaze Lyfe.app/New Eaze Lyfe";
 			};
 			name = Debug;
@@ -479,6 +489,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "New Eaze LyfeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appsquad.New-Eaze-LyfeTests";
